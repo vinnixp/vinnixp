@@ -2,8 +2,9 @@
 
 
 
-- 🔭 I’m currently working on  em um projeto para um evento que acontecerá dia 30 de setembro de 2022.
-- 🌱 I’m currently learning  algumas tecnologias. dentre elas algumas abaixo: 
+- 🔭 I’m currently working onin a project for an event that will take place on September 30, 2022.
+
+- 🌱 I’m currently learning  some technologies. Some of them are below: 
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" /></code>
